@@ -7,6 +7,7 @@
 }
 body{
     display:flex;
+    padding: 20px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -18,14 +19,14 @@ body{
     padding: 22px;
     background: hsl(216, 50%, 16%);
     border-radius:20px;
-    width: 344px;
+    width: 314px;
     box-shadow: 10px 10px 10px 10px hsl(217, 51%, 9%);
 }
 .activeimg{
     position: relative;
     margin-bottom: 25px;
-    height: 302px;
-    width: 302px;
+    height: 270px;
+    width: 270px;
     border-radius:20px;
     
 }
